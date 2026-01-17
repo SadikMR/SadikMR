@@ -76,6 +76,8 @@ I’m a CSE student and passionate problem solver with **1400+ solved programmin
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SadikMR&theme=radical&margin-w=8)
 
 ---
+<h3 align="left">📈 Contribution Graph:</h3>
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=SadikMR&bg_color=ffffff&color=0e75b6&line=0e75b6&poin
 
 ### ✍️ Random Dev Quote
 

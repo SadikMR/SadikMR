@@ -10,11 +10,7 @@
 - ⚡ Fun fact: I love code
 
 About Me:
-👨‍💻 CSE student | Problem solver
-🚀 Experience with MERN stack, APIs, and backend development
-🧠 Solved 1400+ programming problems 
-🔍 Interested in backend, SQA, systems, and emerging tech
-📚 Always learning, building, and improving
+I’m a CSE student and passionate problem solver with 1400+ solved programming problems, strong fundamentals in data structures and algorithms, and hands on experience in MERN stack, REST APIs, and backend development. I enjoy building scalable systems, exploring SQA practices, and continuously improving my engineering skills.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/sadikmr) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SadikMR#0618) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sadikmahmudd.66) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sadikmahmud15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/sadik-mahmud-raihan-28408a268) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@SadikMahmudRaihan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadikmahmudraihan@gmail.com) 

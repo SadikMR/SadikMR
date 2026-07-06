@@ -1,96 +1,282 @@
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=SadikMR&label=Profile%20views&color=0e75b6&style=flat" alt="SadikMR" /> 
+<div align="center">
+
+# 👋 Hi, I'm **Sadik Mahmud**
+
+### 🚀 Backend Developer • Go • Python • Data Engineering Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;Go+%7C+Python+%7C+Node.js;Building+Scalable+REST+APIs;Automation+%26+Web+Scraping;Learning+Data+Engineering;Always+Learning+Something+New+🚀" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=SadikMR&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=120&section=header"/>
+
+---
+
+# 💫 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- 💼 Backend Developer passionate about scalable systems
+- 🚀 Experience building **REST APIs** and backend services
+- 🐹 Working with **Go, Python, Node.js**
+- 🌐 Experience with **React & Next.js**
+- 🤖 Interested in **Automation & Web Scraping**
+- 📊 Currently learning **Data Engineering**
+- 📚 Learning **Advanced SQL, ETL/ELT, BigQuery & Apache Superset**
+- 🧠 Solved **1400+ Programming Problems**
+- 🌱 Always learning new technologies
+
+<br clear="right"/>
+
+---
+
+# 🎯 Current Focus
+
+```text
+Backend Engineering       ██████████████░░ 90%
+
+Data Engineering          ████████░░░░░░░ 60%
+
+System Design             ██████░░░░░░░░░ 45%
+
+Cloud                     █████░░░░░░░░░░ 40%
+
+DevOps                    ██████░░░░░░░░░ 50%
+```
+
+---
+
+# ⚡ Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=go,python,js,java,cs,cpp,c"/>
+
 </p>
 
 ---
 
-## Hi there 👋
+## 🛠 Backend
 
-- 🔭 I’m currently working on **web development**
-- 🌱 I’m currently learning **C#**
-- 👯 I’m looking to collaborate on **web & backend projects**
-- 🤔 I’m looking for help with **backend architecture, APIs, and SQA**
-- 💬 Ask me about **web development, REST APIs, or programming challenges**
-- 📫 Reach me at: **[sadikmahmudraihan@gmail.com](mailto:sadikmahmudraihan@gmail.com)**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I genuinely enjoy **coding and solving problems**
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
 
-## 👨‍💻 About Me
+</p>
 
-- 👨‍💻 **CSE student | Problem solver**  
-- 🚀 **Experience with MERN stack, APIs, and backend development**  
-- 🧠 **Solved 1400+ programming problems**  
-- 🔍 **Interested in backend, SQA, systems, and emerging tech**  
-- 📚 **Always learning, building, and improving**
+- REST APIs
+- Authentication (JWT)
+- Backend Architecture
+- API Integration
+- Web Scraping
+- Automation
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Frontend
 
-<p align="left">
-  <a href="https://linkedin.com/in/sadik-mahmud-raihan-28408a268" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://facebook.com/sadikmahmudd.66" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/sadikmahmud15" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🗄 Database
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SadikMR&layout=compact&langs_count=8&theme=dark" alt="SadikMR Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SadikMR&show_icons=true&theme=dark" alt="SadikMR GitHub Stats" /></p>
+<p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SadikMR&theme=dark" alt="SadikMR GitHub Streak" /></p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
 
----
-
-## 📈 Contribution Graph
-
-<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=SadikMR&bg_color=ffffff&color=0e75b6&line=0e75b6&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph" /></p>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## ⚙️ DevOps & Tools
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=SadikMR&margin-w=5&no-bg=true" alt="GitHub Trophies" /></p>
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,firebase,vercel,vscode"/>
 
-## 💻 Tech Stack
-
-**Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-
-**Backend & Tools:**  
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-
-**DevOps / Hosting:**  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=SadikMR&icon=0&color=0)](https://visitcount.itsvg.in)
+# 📚 Currently Learning
+
+```text
+✔ Advanced SQL
+✔ ETL / ELT
+✔ BigQuery
+✔ Redshift
+✔ Apache Superset
+✔ Query Optimization
+✔ Data Warehousing
+✔ CI/CD
+```
+
+---
+
+# 🏆 Coding Profiles
+
+<div align="center">
+
+| Platform | Profile |
+|----------|---------|
+| 🟡 LeetCode | https://leetcode.com/u/SadikMR/ |
+| 🔵 Codeforces | https://codeforces.com/profile/SadikMR |
+| 🟢 HackerRank | https://www.hackerrank.com/profile/SadikMR |
+| 🟤 CodeChef | https://www.codechef.com/users/sadikmr |
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SadikMR&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadikMR&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SadikMR&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SadikMR&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SadikMR&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
+
+</div>
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:sadikmahmudraihan@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/sadik-mahmud-raihan-28408a268">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Interests
+
+- 🚀 Backend Development
+- 📊 Data Engineering
+- ⚙️ Distributed Systems
+- 🕸️ Web Scraping
+- 🤖 Automation
+- 🔍 System Design
+- ☁️ Cloud Technologies
+
+---
+
+# ⚡ Fun Facts
+
+```yaml
+Name: Sadik Mahmud
+
+Role: Backend Developer
+
+Current Goal:
+  Become a Backend + Data Engineer
+
+Favorite Languages:
+  - Go
+  - Python
+
+Loves:
+  - Clean Architecture
+  - REST APIs
+  - Problem Solving
+  - Learning New Technologies
+```
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action below to generate it automatically.
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: SadikMR
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then display it using:
+
+```html
+<p align="center">
+<img src="https://raw.githubusercontent.com/SadikMR/SadikMR/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+```
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer"/>

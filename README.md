@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋 I'm Sadik Mahmud</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;Go+•+Python+•+Node.js;Building+Scalable+REST+APIs;Automation+%26+Web+Scraping;Learning+Data+Engineering;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Go+%7C+Python+%7C+Node.js;Learning+Data+Engineering" />
 </p>
 
 <p align="center">

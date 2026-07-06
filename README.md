@@ -26,35 +26,19 @@
 
 # 💫 About Me
 
-<img align="right" width="360" alt="Coding" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+<img align="right" width="340" alt="Coding"
+src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
-```yaml
-name: Sadik Mahmud
+- 👨‍💻 Backend Developer passionate about building scalable systems
+- 🐹 Experienced with **Go, Python, Node.js, React & Next.js**
+- ⚡ Interested in **Backend Architecture, Automation & Web Scraping**
+- 📊 Currently learning **Data Engineering, BigQuery & Apache Superset**
+- 🧠 Solved **1400+ Programming Problems**
+- 🌱 Always exploring new technologies and improving my craft
 
-role: Backend Developer
+<br clear="right"/>
 
-currently_learning:
-  - Data Engineering
-  - Advanced SQL
-  - BigQuery
-  - Apache Superset
-
-tech:
-  - Go
-  - Python
-  - Node.js
-  - React
-  - Next.js
-
-interests:
-  - Backend Systems
-  - Distributed Systems
-  - ETL Pipelines
-  - Automation
-  - Web Scraping
-
-achievements:
-  - Solved 1400+ Programming Problems
+---
 
 # 🚀 Tech Stack
 

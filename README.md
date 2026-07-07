@@ -130,16 +130,6 @@ src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 ---
 
-# 📊 GitHub Metrics
-
-<p align="center">
-
-<img src="./github-metrics.svg"/>
-
-</p>
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
